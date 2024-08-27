@@ -3,11 +3,29 @@
 </h3>
 <h1 align="center">Hi, I'm Abhishek Bhavsar</h1>
 <h3 align="center">A Web Engineer/developer specializing in React, Next.js, Node.js and Cloud</h3>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+- 💬 Ask me about **React, Next.js, PHP, Node.js and AWS**
+
+- 📫 How to reach me **abhisanjaybhavsar29@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kUTqjoUsT36VzjaueCddYfpvTI3L5wdV/view?usp=sharing)
+
+
+<div align="center"> 
+  <a href="mailto:adityabhate305@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/aditya-bhate" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+  <a href="https://adityabhate.tech" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
+
 
 ###
 
@@ -46,6 +64,14 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Abhicode07/Abhicode07/output/snake.svg" alt="Snake animation" />
+| ![Shrey GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhicode07&show_icons=true&theme=radical) | ![Shrey GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhicode07&theme=radical) |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhicode07&langs_count=8&theme=radical&layout=compact) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhicode07&theme=2077) |
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<img src="https://raw.githubusercontent.com/Abhicode07/Abhicode07/workflows/snake.svg" alt="Snake animation" />
 
 ###
