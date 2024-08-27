@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><p align="center">
 </h3>
 <h1 align="center">Hi, I'm Abhishek Bhavsar</h1>
-<h3 align="center">A Web Engineer/developer specializing in React, Next.js, Node.js and Cloud .</h3>
+<h3 align="center">A Full Stack Engineer/Developer specializing in React, Next.js, Node.js and Cloud .</h3>
 <br/>
 
 - 💬 Ask me about **Java, Front-End, JavaScript, ReactJS and SQL .**
@@ -65,10 +65,21 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+</br>
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  
+</h3>
 
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=Abhicode07&style=flat-square&color=22CCB2">
 
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhicode07&theme=2077"  display=block width=100% height=auto  alt="1" >
+</div>
 
-<br clear="both">
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 | ![Shrey GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhicode07&show_icons=true&theme=radical) | ![Shrey GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhicode07&theme=radical) |
 | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
