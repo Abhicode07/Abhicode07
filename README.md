@@ -3,7 +3,6 @@
 </h3>
 <h1 align="center">Hi, I'm Abhishek Bhavsar</h1>
 <h3 align="center">A Web Engineer/developer specializing in React, Next.js, Node.js and Cloud</h3>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
