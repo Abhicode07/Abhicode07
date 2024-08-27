@@ -5,7 +5,7 @@
 <h3 align="center">A Web Engineer/developer specializing in React, Next.js, Node.js and Cloud</h3>
 <br/>
 
-- 💬 Ask me about **React, Next.js, PHP, Node.js and AWS**
+- 💬 Ask me about **Java, Front-End, JavaScript, ReactJS and SQL**
 
 - 📫 How to reach me **abhisanjaybhavsar29@gmail.com**
 
@@ -13,11 +13,11 @@
 
 
 <div align="center"> 
-  <a href="mailto:adityabhate305@gmail.com">
+  <a href="mailto:abhisanjaybhavsar29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   
-  <a href="https://www.linkedin.com/in/aditya-bhate" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-bhavsar1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   
