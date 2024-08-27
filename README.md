@@ -2,10 +2,10 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><p align="center">
 </h3>
 <h1 align="center">Hi, I'm Abhishek Bhavsar</h1>
-<h3 align="center">A Web Engineer/developer specializing in React, Next.js, Node.js and Cloud</h3>
+<h3 align="center">A Web Engineer/developer specializing in React, Next.js, Node.js and Cloud .</h3>
 <br/>
 
-- 💬 Ask me about **Java, Front-End, JavaScript, ReactJS and SQL**
+- 💬 Ask me about **Java, Front-End, JavaScript, ReactJS and SQL .**
 
 - 📫 How to reach me **abhisanjaybhavsar29@gmail.com**
 
@@ -27,11 +27,11 @@
 </div>
 
 
-###
+
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -63,7 +63,7 @@
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 
@@ -77,4 +77,4 @@
 
 <img src="https://raw.githubusercontent.com/Abhicode07/Abhicode07/workflows/snake.svg" alt="Snake animation" />
 
-###
+
