@@ -71,10 +71,9 @@
 | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhicode07&langs_count=8&theme=radical&layout=compact) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhicode07&theme=2077) |
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 <img src="https://raw.githubusercontent.com/Abhicode07/Abhicode07/workflows/snake.svg" alt="Snake animation" />
 
-
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
