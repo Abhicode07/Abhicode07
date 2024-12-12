@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abhisanjaybhavsar29@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kUTqjoUsT36VzjaueCddYfpvTI3L5wdV/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sqYVmALB4lzZ9BUTp5JfA781X-oLiOzD/view?usp=drivesdk)
 
 </br>
 <div align="left">
